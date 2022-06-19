@@ -1,6 +1,9 @@
 # The-Simon-Game
 
-#Tech Stack used:
+Relive your old days by enjoying the all time favourite game🤩
+
+## Tech Stack used:
+
   -HTML
   -CSS
   -Javascript and jQuery
